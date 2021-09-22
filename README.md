@@ -1,4 +1,6 @@
-Hi there,
-I am Salma Miha. Currently I am exploring how to communicate with machines and am quick to solve problems.
+Hello World,
+I am Salma Miha, exploring how to communicate with machines.
 
-Right now figuring out how flutter works.
+🔖I have started programming with C and then C++.
+📔Right now I am trying to figure out how to use flutter.
+🏷️I also know little bit Java and Python.
