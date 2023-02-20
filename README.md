@@ -1,6 +1,6 @@
 
 # Hi, I am Salma Miha.   
-##Exploring how to communicate with machines.  
+## Exploring how to communicate with machines.  
 
 #### Language Skills:  
 + C
