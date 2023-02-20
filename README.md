@@ -1,6 +1,17 @@
-Hello World,
-I am Salma Miha, exploring how to communicate with machines.
 
-🔖I have started programming with C and then C++.
-📔Right now I am trying to figure out how to use flutter.
-🏷️I also know little bit Java and Python.
+# Hi, I am Salma Miha.   
+##Exploring how to communicate with machines.  
+
+####Language Skills:  
++C
++C++
++Python
++Java  
+
+####Databse:
++MySQL 
++Firebase  
+
+####Quick Fact:  
++Currently learning web development  
+![wordcloud](https://user-images.githubusercontent.com/51287088/220040409-7f8bac7e-d780-471f-ab4d-36a30d6dcf92.jpg)
